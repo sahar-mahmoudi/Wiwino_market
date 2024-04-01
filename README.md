@@ -49,7 +49,7 @@ Once the Jupyter Notebook opens in your browser, you can run each cell by clicki
 
 The project is organized as follows:
 
-**data:** Contains the main dataset "vivino.db.csv" and supplementary information used for "wine_data.csv."
+**data:** Contains the main dataset "vivino.db.csv" and supplementary information used from "wine_data.csv."
 **.gitignore:** Specifies files and folders to be ignored by version control.    
 **README.md:** The detailed guide you are currently reading.     
 **requirements.txt:** Lists project dependencies for easy setup.
